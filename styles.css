@@ -1,0 +1,11 @@
+body {
+  background-image: url("https://wallpaperaccess.com/full/869923.gif"); 
+}
+.texto {
+	font-family: Courier;
+	font-size: 200%;
+	text-shadow: black 6px 6px 8px;
+}
+p {
+  color: red;
+}
